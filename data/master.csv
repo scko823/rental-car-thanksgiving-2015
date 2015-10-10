@@ -94,22 +94,887 @@ days away,car class,Alamo,Avis,Budget,Enterprise
 111,Premium SUV,788.0,1611.0,891.0,765.0
 111,Luxury SUV,992.0,,,953.0
 111,Fullsize Van,1097.0,1223.0,1124.0,1050.0
-110,Economy Car,283,462,501,299
-110,Compact Car,283,423,468,299
-110,Intermediate Car,282.96,434,410,299
-110,Standard Car,312,472,446,326
-110,Fullsize Car,312,472,446,326
-110,Premium Car,271,1084,490,264
-110,Intermediate SUV,245,727,523,264
-110,Standard SUV,409,1179,578,415
-110,Fullsize Crossover,626,NA,NA,616
-110,Premium Crossover,NA,NA,NA,591
-110,Mini Van,470,1603,490,472
-110,Standard Van,719,NA,NA,NA
-110,Fullsize SUV,598,1298,685,591
-110,Standard Convertible,387,1120,436,396
-110,Standard Specialty,362,NA,NA,372
-110,Luxury Car,NA,1120,1066,NA
-110,Premium SUV,788,1611,891,765
-110,Luxury SUV,992,NA,NA,953
-110,Fullsize Van,1097,1223,1124,1050
+110,Economy Car,283.0,462.0,501.0,299.0
+110,Compact Car,283.0,423.0,468.0,299.0
+110,Intermediate Car,282.96,434.0,410.0,299.0
+110,Standard Car,312.0,472.0,446.0,326.0
+110,Fullsize Car,312.0,472.0,446.0,326.0
+110,Premium Car,271.0,1084.0,490.0,264.0
+110,Intermediate SUV,245.0,727.0,523.0,264.0
+110,Standard SUV,409.0,1179.0,578.0,415.0
+110,Fullsize Crossover,626.0,,,616.0
+110,Premium Crossover,,,,591.0
+110,Mini Van,470.0,1603.0,490.0,472.0
+110,Standard Van,719.0,,,
+110,Fullsize SUV,598.0,1298.0,685.0,591.0
+110,Standard Convertible,387.0,1120.0,436.0,396.0
+110,Standard Specialty,362.0,,,372.0
+110,Luxury Car,,1120.0,1066.0,
+110,Premium SUV,788.0,1611.0,891.0,765.0
+110,Luxury SUV,992.0,,,953.0
+110,Fullsize Van,1097.0,1223.0,1124.0,1050.0
+109,Economy Car,283.0,462.0,501.0,299.0
+109,Compact Car,283.0,423.0,468.0,299.0
+109,Intermediate Car,282.96,434.0,410.0,299.0
+109,Standard Car,312.0,472.0,446.0,326.0
+109,Fullsize Car,312.0,472.0,446.0,326.0
+109,Premium Car,271.0,1084.0,490.0,264.0
+109,Intermediate SUV,262.0,727.0,523.0,283.0
+109,Standard SUV,449.0,1179.0,578.0,453.0
+109,Fullsize Crossover,687.0,,,672.0
+109,Premium Crossover,,,,647.0
+109,Mini Van,470.0,1603.0,490.0,472.0
+109,Standard Van,719.0,,,
+109,Fullsize SUV,659.0,1298.0,685.0,647.0
+109,Standard Convertible,418.0,1120.0,436.0,424.0
+109,Standard Specialty,362.0,,,372.0
+109,Luxury Car,,1120.0,1066.0,
+109,Premium SUV,869.0,1611.0,891.0,840.0
+109,Luxury SUV,1092.0,,,1046.0
+109,Fullsize Van,1097.0,1223.0,1124.0,1050.0
+108,Economy Car,283.0,462.0,501.0,299.0
+108,Compact Car,283.0,423.0,468.0,299.0
+108,Intermediate Car,282.96,434.0,410.0,299.0
+108,Standard Car,312.0,472.0,446.0,326.0
+108,Fullsize Car,312.0,472.0,446.0,326.0
+108,Premium Car,271.0,1084.0,490.0,264.0
+108,Intermediate SUV,262.0,727.0,523.0,283.0
+108,Standard SUV,449.0,1179.0,578.0,453.0
+108,Fullsize Crossover,687.0,,,672.0
+108,Premium Crossover,,,,647.0
+108,Mini Van,470.0,1603.0,490.0,472.0
+108,Standard Van,719.0,,,
+108,Fullsize SUV,659.0,1298.0,685.0,647.0
+108,Standard Convertible,418.0,1120.0,436.0,424.0
+108,Standard Specialty,362.0,,,372.0
+108,Luxury Car,,1120.0,1066.0,
+108,Premium SUV,869.0,1611.0,891.0,840.0
+108,Luxury SUV,1092.0,,,1046.0
+108,Fullsize Van,1097.0,1223.0,1124.0,1050.0
+107,Economy Car,283.0,462.0,501.0,299.0
+107,Compact Car,283.0,423.0,468.0,299.0
+107,Intermediate Car,282.96,434.0,410.0,299.0
+107,Standard Car,312.0,472.0,446.0,326.0
+107,Fullsize Car,312.0,472.0,446.0,326.0
+107,Premium Car,271.0,1084.0,490.0,264.0
+107,Intermediate SUV,262.0,727.0,523.0,283.0
+107,Standard SUV,449.0,1179.0,578.0,453.0
+107,Fullsize Crossover,687.0,,,672.0
+107,Premium Crossover,,,,647.0
+107,Mini Van,470.0,1603.0,490.0,472.0
+107,Standard Van,719.0,,,
+107,Fullsize SUV,659.0,1298.0,685.0,647.0
+107,Standard Convertible,418.0,1120.0,436.0,424.0
+107,Standard Specialty,362.0,,,372.0
+107,Luxury Car,,1120.0,1066.0,
+107,Premium SUV,869.0,1611.0,891.0,840.0
+107,Luxury SUV,1092.0,,,1046.0
+107,Fullsize Van,1097.0,1223.0,1124.0,1050.0
+106,Economy Car,283.0,462.0,501.0,299.0
+106,Compact Car,283.0,423.0,468.0,299.0
+106,Intermediate Car,282.96,434.0,410.0,299.0
+106,Standard Car,312.0,472.0,446.0,326.0
+106,Fullsize Car,312.0,472.0,446.0,326.0
+106,Premium Car,271.0,1084.0,490.0,264.0
+106,Intermediate SUV,265.0,727.0,523.0,283.0
+106,Standard SUV,449.0,1179.0,578.0,453.0
+106,Fullsize Crossover,687.0,,,672.0
+106,Premium Crossover,,,,647.0
+106,Mini Van,470.0,1603.0,490.0,472.0
+106,Standard Van,719.0,,,
+106,Fullsize SUV,659.0,1298.0,685.0,647.0
+106,Standard Convertible,418.0,1120.0,436.0,424.0
+106,Standard Specialty,362.0,,,372.0
+106,Luxury Car,,1120.0,1066.0,
+106,Premium SUV,869.0,1611.0,891.0,840.0
+106,Luxury SUV,1092.0,,,1046.0
+106,Fullsize Van,1097.0,1223.0,1124.0,1050.0
+105,Economy Car,283.0,462.0,501.0,299.0
+105,Compact Car,283.0,423.0,468.0,299.0
+105,Intermediate Car,282.96,434.0,410.0,299.0
+105,Standard Car,312.0,472.0,446.0,326.0
+105,Fullsize Car,312.0,472.0,446.0,326.0
+105,Premium Car,271.0,1084.0,490.0,264.0
+105,Intermediate SUV,265.0,727.0,523.0,283.0
+105,Standard SUV,449.0,1179.0,578.0,453.0
+105,Fullsize Crossover,687.0,,,672.0
+105,Premium Crossover,,,,647.0
+105,Mini Van,470.0,1603.0,490.0,472.0
+105,Standard Van,719.0,,,
+105,Fullsize SUV,659.0,1298.0,685.0,647.0
+105,Standard Convertible,418.0,1120.0,436.0,424.0
+105,Standard Specialty,362.0,,,372.0
+105,Luxury Car,,1120.0,1066.0,
+105,Premium SUV,869.0,1611.0,891.0,840.0
+105,Luxury SUV,1092.0,,,1046.0
+105,Fullsize Van,1097.0,1223.0,1124.0,1050.0
+104,Economy Car,283.0,462.0,501.0,299.0
+104,Compact Car,283.0,423.0,468.0,299.0
+104,Intermediate Car,282.96,434.0,410.0,299.0
+104,Standard Car,312.0,472.0,446.0,326.0
+104,Fullsize Car,312.0,472.0,446.0,326.0
+104,Premium Car,271.0,1084.0,490.0,264.0
+104,Intermediate SUV,265.0,637.0,554.0,283.0
+104,Standard SUV,449.0,1244.0,578.0,453.0
+104,Fullsize Crossover,687.0,,,672.0
+104,Premium Crossover,,,,645.0
+104,Mini Van,470.0,1728.0,490.0,472.0
+104,Standard Van,719.0,,,
+104,Fullsize SUV,658.0,1298.0,642.0,645.0
+104,Standard Convertible,418.0,1120.0,436.0,424.0
+104,Standard Specialty,362.0,,,372.0
+104,Luxury Car,,1130.0,1075.0,
+104,Premium SUV,869.0,1611.0,847.0,840.0
+104,Luxury SUV,1092.0,,,1046.0
+104,Fullsize Van,1097.0,1223.0,1124.0,1050.0
+103,Economy Car,283.0,462.0,501.0,299.0
+103,Compact Car,283.0,423.0,468.0,299.0
+103,Intermediate Car,282.96,434.0,410.0,299.0
+103,Standard Car,312.0,472.0,446.0,326.0
+103,Fullsize Car,312.0,472.0,446.0,326.0
+103,Premium Car,271.0,1084.0,490.0,264.0
+103,Intermediate SUV,265.0,637.0,554.0,283.0
+103,Standard SUV,449.0,1244.0,578.0,453.0
+103,Fullsize Crossover,687.0,,,672.0
+103,Premium Crossover,,,,645.0
+103,Mini Van,470.0,1728.0,490.0,472.0
+103,Standard Van,719.0,,,
+103,Fullsize SUV,658.0,1298.0,642.0,645.0
+103,Standard Convertible,418.0,1120.0,436.0,424.0
+103,Standard Specialty,362.0,,,372.0
+103,Luxury Car,,1130.0,1075.0,
+103,Premium SUV,869.0,1611.0,847.0,840.0
+103,Luxury SUV,1092.0,,,1046.0
+103,Fullsize Van,1097.0,1223.0,1124.0,1050.0
+102,Economy Car,283.0,462.0,501.0,299.0
+102,Compact Car,283.0,423.0,468.0,299.0
+102,Intermediate Car,282.96,434.0,410.0,299.0
+102,Standard Car,312.0,472.0,446.0,326.0
+102,Fullsize Car,312.0,472.0,446.0,326.0
+102,Premium Car,271.0,1084.0,490.0,264.0
+102,Intermediate SUV,265.0,637.0,554.0,283.0
+102,Standard SUV,449.0,1244.0,578.0,453.0
+102,Fullsize Crossover,687.0,,,672.0
+102,Premium Crossover,,,,645.0
+102,Mini Van,470.0,1728.0,490.0,472.0
+102,Standard Van,719.0,,,
+102,Fullsize SUV,658.0,1298.0,642.0,645.0
+102,Standard Convertible,418.0,1120.0,436.0,424.0
+102,Standard Specialty,362.0,,,372.0
+102,Luxury Car,,1130.0,1075.0,
+102,Premium SUV,869.0,1611.0,847.0,840.0
+102,Luxury SUV,1092.0,,,1046.0
+102,Fullsize Van,1097.0,1223.0,1124.0,1050.0
+101,Economy Car,283.0,462.0,501.0,299.0
+101,Compact Car,283.0,423.0,461.0,299.0
+101,Intermediate Car,282.96,434.0,410.0,299.0
+101,Standard Car,312.0,472.0,446.0,326.0
+101,Fullsize Car,312.0,472.0,446.0,326.0
+101,Premium Car,271.0,1084.0,484.0,264.0
+101,Intermediate SUV,265.0,637.0,547.0,283.0
+101,Standard SUV,449.0,1244.0,572.0,453.0
+101,Fullsize Crossover,687.0,,,672.0
+101,Premium Crossover,,,,645.0
+101,Mini Van,470.0,1728.0,484.0,472.0
+101,Standard Van,719.0,,,
+101,Fullsize SUV,658.0,1298.0,635.0,645.0
+101,Standard Convertible,418.0,1120.0,429.0,424.0
+101,Standard Specialty,362.0,,,372.0
+101,Luxury Car,,1130.0,1069.0,
+101,Premium SUV,869.0,1611.0,841.0,840.0
+101,Luxury SUV,1092.0,,,1046.0
+101,Fullsize Van,1097.0,1223.0,1118.0,1050.0
+100,Economy Car,283.0,462.0,501.0,299.0
+100,Compact Car,283.0,423.0,461.0,299.0
+100,Intermediate Car,282.96,434.0,410.0,299.0
+100,Standard Car,312.0,472.0,446.0,326.0
+100,Fullsize Car,312.0,472.0,446.0,326.0
+100,Premium Car,271.0,1078.0,484.0,264.0
+100,Intermediate SUV,265.0,630.0,547.0,283.0
+100,Standard SUV,449.0,1237.0,572.0,453.0
+100,Fullsize Crossover,687.0,,,672.0
+100,Premium Crossover,,,,645.0
+100,Mini Van,470.0,1722.0,484.0,472.0
+100,Standard Van,719.0,,,
+100,Fullsize SUV,658.0,1291.0,635.0,645.0
+100,Standard Convertible,418.0,1113.0,429.0,424.0
+100,Standard Specialty,362.0,,,372.0
+100,Luxury Car,,1124.0,1069.0,
+100,Premium SUV,869.0,1604.0,841.0,840.0
+100,Luxury SUV,1092.0,,,1046.0
+100,Fullsize Van,1097.0,1217.0,1118.0,1050.0
+99,Economy Car,283.0,461.0,435.0,299.0
+99,Compact Car,283.0,421.0,395.0,299.0
+99,Intermediate Car,282.96,433.0,408.0,299.0
+99,Standard Car,312.0,471.0,445.0,326.0
+99,Fullsize Car,312.0,471.0,445.0,326.0
+99,Premium Car,271.0,1078.0,484.0,264.0
+99,Intermediate SUV,265.0,673.0,581.0,283.0
+99,Standard SUV,449.0,1268.0,624.0,453.0
+99,Fullsize Crossover,687.0,,,672.0
+99,Premium Crossover,,,,647.0
+99,Mini Van,470.0,1742.0,516.0,472.0
+99,Standard Van,719.0,,,
+99,Fullsize SUV,659.0,1588.0,678.0,647.0
+99,Standard Convertible,418.0,1113.0,462.0,424.0
+99,Standard Specialty,362.0,,,372.0
+99,Luxury Car,,1134.0,1079.0,
+99,Premium SUV,869.0,1980.0,895.0,840.0
+99,Luxury SUV,1092.0,,,1046.0
+99,Fullsize Van,1097.0,1217.0,1118.0,1050.0
+97,Economy Car,283.0,489.0,462.0,299.0
+97,Compact Car,283.0,449.0,422.0,299.0
+97,Intermediate Car,282.96,445.0,420.0,299.0
+97,Standard Car,312.0,516.0,487.0,326.0
+97,Fullsize Car,312.0,529.0,474.0,326.0
+97,Premium Car,271.0,1078.0,1003.0,264.0
+97,Intermediate SUV,265.0,707.0,673.0,283.0
+97,Standard SUV,449.0,1268.0,1206.0,453.0
+97,Fullsize Crossover,687.0,,,672.0
+97,Premium Crossover,,,,647.0
+97,Mini Van,470.0,1742.0,1657.0,472.0
+97,Standard Van,719.0,,,
+97,Fullsize SUV,659.0,1604.0,1525.0,647.0
+97,Standard Convertible,418.0,1146.0,836.0,424.0
+97,Standard Specialty,362.0,,,372.0
+97,Luxury Car,,1134.0,1079.0,
+97,Premium SUV,869.0,1993.0,1183.0,840.0
+97,Luxury SUV,1092.0,,,1046.0
+97,Fullsize Van,1097.0,1217.0,1118.0,1050.0
+96,Economy Car,362.0,489.0,462.0,372.0
+96,Compact Car,352.0,449.0,422.0,363.0
+96,Intermediate Car,362.14,445.0,420.0,372.0
+96,Standard Car,392.0,516.0,487.0,400.0
+96,Fullsize Car,332.0,529.0,474.0,344.0
+96,Premium Car,392.0,1078.0,1003.0,400.0
+96,Intermediate SUV,286.0,707.0,673.0,304.0
+96,Standard SUV,449.0,1268.0,1206.0,453.0
+96,Fullsize Crossover,687.0,,,672.0
+96,Premium Crossover,,,,654.0
+96,Mini Van,470.0,1742.0,1657.0,472.0
+96,Standard Van,719.0,,,
+96,Fullsize SUV,667.0,1604.0,1525.0,654.0
+96,Standard Convertible,423.0,1146.0,836.0,428.0
+96,Standard Specialty,455.0,,,458.0
+96,Luxury Car,,1134.0,1079.0,
+96,Premium SUV,869.0,1993.0,1183.0,840.0
+96,Luxury SUV,1092.0,,,1046.0
+96,Fullsize Van,1097.0,1217.0,1118.0,1050.0
+95,Economy Car,362.0,459.0,433.0,372.0
+95,Compact Car,352.0,419.0,394.0,363.0
+95,Intermediate Car,362.14,433.0,408.0,372.0
+95,Standard Car,392.0,469.0,443.0,400.0
+95,Fullsize Car,332.0,469.0,443.0,344.0
+95,Premium Car,392.0,1078.0,564.0,400.0
+95,Intermediate SUV,286.0,671.0,610.0,304.0
+95,Standard SUV,449.0,1268.0,748.0,453.0
+95,Fullsize Crossover,687.0,,,672.0
+95,Premium Crossover,,,,654.0
+95,Mini Van,470.0,1742.0,604.0,472.0
+95,Standard Van,719.0,,,
+95,Fullsize SUV,667.0,1207.0,1525.0,654.0
+95,Standard Convertible,423.0,1146.0,549.0,428.0
+95,Standard Specialty,455.0,,,458.0
+95,Luxury Car,,1134.0,1079.0,
+95,Premium SUV,869.0,1499.0,1073.0,840.0
+95,Luxury SUV,1092.0,,,1046.0
+95,Fullsize Van,1097.0,1217.0,1118.0,1050.0
+93,Economy Car,323.0,459.0,433.0,368.0
+93,Compact Car,319.0,419.0,394.0,363.0
+93,Intermediate Car,328.93,433.0,408.0,372.0
+93,Standard Car,392.0,469.0,443.0,400.0
+93,Fullsize Car,332.0,469.0,443.0,344.0
+93,Premium Car,392.0,1078.0,564.0,
+93,Intermediate SUV,288.0,671.0,610.0,304.0
+93,Standard SUV,486.0,1268.0,748.0,504.0
+93,Fullsize Crossover,744.0,,,749.0
+93,Premium Crossover,,,,737.0
+93,Mini Van,470.0,1742.0,604.0,472.0
+93,Standard Van,719.0,,,
+93,Fullsize SUV,758.0,1207.0,1525.0,737.0
+93,Standard Convertible,485.0,1146.0,549.0,486.0
+93,Standard Specialty,455.0,,,458.0
+93,Luxury Car,,1134.0,1079.0,
+93,Premium SUV,988.0,1499.0,1073.0,949.0
+93,Luxury SUV,1240.0,,,1183.0
+93,Fullsize Van,1097.0,1217.0,1118.0,1050.0
+91,Economy Car,323.0,452.0,427.0,368.0
+91,Compact Car,319.0,413.0,387.0,363.0
+91,Intermediate Car,328.93,426.0,402.0,372.0
+91,Standard Car,392.0,462.0,436.0,400.0
+91,Fullsize Car,332.0,462.0,436.0,344.0
+91,Premium Car,392.0,1078.0,473.0,
+91,Intermediate SUV,288.0,673.0,559.0,304.0
+91,Standard SUV,483.0,1309.0,711.0,504.0
+91,Fullsize Crossover,740.0,,,749.0
+91,Premium Crossover,,,,690.0
+91,Mini Van,470.0,1784.0,559.0,472.0
+91,Standard Van,719.0,,,
+91,Fullsize SUV,706.0,1629.0,765.0,690.0
+91,Standard Convertible,527.0,1175.0,527.0,529.0
+91,Standard Specialty,455.0,,,458.0
+91,Luxury Car,,1154.0,1098.0,
+91,Premium SUV,1000.0,2031.0,1003.0,961.0
+91,Luxury SUV,1257.0,,,1197.0
+91,Fullsize Van,1097.0,1217.0,1118.0,1050.0
+90,Economy Car,323.0,452.0,427.0,353.0
+90,Compact Car,319.0,413.0,387.0,363.0
+90,Intermediate Car,328.93,426.0,402.0,353.0
+90,Standard Car,372.0,462.0,436.0,382.0
+90,Fullsize Car,449.0,462.0,436.0,453.0
+90,Premium Car,392.0,1078.0,473.0,
+90,Intermediate SUV,312.0,673.0,596.0,326.0
+90,Standard SUV,483.0,1319.0,711.0,533.0
+90,Fullsize Crossover,740.0,,,798.0
+90,Premium Crossover,,,,737.0
+90,Mini Van,483.0,1794.0,559.0,533.0
+90,Standard Van,740.0,,,
+90,Fullsize SUV,758.0,1639.0,808.0,737.0
+90,Standard Convertible,512.0,1185.0,527.0,511.0
+90,Standard Specialty,432.0,,,437.0
+90,Luxury Car,,1154.0,1098.0,
+90,Premium SUV,1000.0,2041.0,1068.0,961.0
+90,Luxury SUV,1257.0,,,1197.0
+90,Fullsize Van,1097.0,1217.0,1118.0,1050.0
+89,Economy Car,323.0,452.0,427.0,341.0
+89,Compact Car,319.0,413.0,387.0,363.0
+89,Intermediate Car,328.22,426.0,402.0,341.0
+89,Standard Car,361.0,462.0,436.0,371.0
+89,Fullsize Car,444.0,462.0,436.0,448.0
+89,Premium Car,454.0,1078.0,473.0,
+89,Intermediate SUV,395.0,673.0,596.0,407.0
+89,Standard SUV,483.0,1319.0,711.0,533.0
+89,Fullsize Crossover,740.0,,,798.0
+89,Premium Crossover,,,,745.0
+89,Mini Van,483.0,1794.0,559.0,533.0
+89,Standard Van,740.0,,,
+89,Fullsize SUV,765.0,1639.0,808.0,745.0
+89,Standard Convertible,512.0,1185.0,527.0,511.0
+89,Standard Specialty,419.0,,,425.0
+89,Luxury Car,,1154.0,1098.0,
+89,Premium SUV,966.0,2041.0,1068.0,929.0
+89,Luxury SUV,1214.0,,,1158.0
+89,Fullsize Van,1083.0,1217.0,1118.0,1050.0
+88,Economy Car,323.0,449.0,399.0,338.0
+88,Compact Car,319.0,413.0,369.0,354.0
+88,Intermediate Car,324.89,426.0,360.0,338.0
+88,Standard Car,358.0,462.0,395.0,368.0
+88,Fullsize Car,360.0,462.0,347.0,370.0
+88,Premium Car,468.0,544.0,496.0,457.0
+88,Intermediate SUV,395.0,496.0,473.0,407.0
+88,Standard SUV,483.0,656.0,531.0,533.0
+88,Fullsize Crossover,740.0,,,798.0
+88,Premium Crossover,,,,745.0
+88,Mini Van,483.0,608.0,558.0,533.0
+88,Standard Van,740.0,,,
+88,Fullsize SUV,765.0,808.0,769.0,745.0
+88,Standard Convertible,522.0,559.0,533.0,511.0
+88,Standard Specialty,416.0,,,422.0
+88,Luxury Car,,770.0,733.0,
+88,Premium SUV,966.0,1000.0,950.0,929.0
+88,Luxury SUV,1214.0,,,1158.0
+88,Fullsize Van,1113.0,1217.0,1118.0,1050.0
+85,Economy Car,284.0,431.0,381.0,327.0
+85,Compact Car,283.0,403.0,355.0,326.0
+85,Intermediate Car,283.53,405.0,341.0,327.0
+85,Standard Car,347.0,462.0,375.0,358.0
+85,Fullsize Car,328.0,454.0,366.0,341.0
+85,Premium Car,449.0,542.0,496.0,453.0
+85,Intermediate SUV,395.0,673.0,473.0,426.0
+85,Standard SUV,471.0,710.0,531.0,472.0
+85,Fullsize Crossover,721.0,,,703.0
+85,Premium Crossover,,,,736.0
+85,Mini Van,483.0,930.0,558.0,484.0
+85,Standard Van,740.0,,,
+85,Fullsize SUV,764.0,1078.0,769.0,736.0
+85,Standard Convertible,528.0,559.0,533.0,522.0
+85,Standard Specialty,404.0,,,410.0
+85,Luxury Car,,770.0,733.0,
+85,Premium SUV,945.0,1418.0,950.0,899.0
+85,Luxury SUV,1181.0,,,1120.0
+85,Fullsize Van,1062.0,1161.0,1104.0,1050.0
+82,Economy Car,284.0,428.0,404.0,327.0
+82,Compact Car,283.0,388.0,355.0,326.0
+82,Intermediate Car,283.53,400.0,364.0,327.0
+82,Standard Car,373.0,401.0,377.0,382.0
+82,Fullsize Car,355.0,401.0,360.0,365.0
+82,Premium Car,491.0,540.0,490.0,483.0
+82,Intermediate SUV,300.0,673.0,473.0,315.0
+82,Standard SUV,468.0,710.0,479.0,472.0
+82,Fullsize Crossover,718.0,,,703.0
+82,Premium Crossover,,,,684.0
+82,Mini Van,483.0,592.0,502.0,484.0
+82,Standard Van,740.0,,,
+82,Fullsize SUV,701.0,1078.0,769.0,684.0
+82,Standard Convertible,528.0,559.0,533.0,522.0
+82,Standard Specialty,433.0,,,437.0
+82,Luxury Car,,770.0,733.0,
+82,Premium SUV,945.0,1418.0,951.0,890.0
+82,Luxury SUV,1181.0,,,1110.0
+82,Fullsize Van,1062.0,1105.0,1052.0,1050.0
+81,Economy Car,271.0,428.0,404.0,301.0
+81,Compact Car,271.0,388.0,364.0,300.0
+81,Intermediate Car,271.22,400.0,375.0,301.0
+81,Standard Car,397.0,401.0,377.0,377.0
+81,Fullsize Car,397.0,401.0,377.0,392.0
+81,Premium Car,485.0,539.0,485.0,479.0
+81,Intermediate SUV,421.0,673.0,501.0,426.0
+81,Standard SUV,474.0,710.0,514.0,505.0
+81,Fullsize Crossover,711.0,,,751.0
+81,Premium Crossover,,,,738.0
+81,Mini Van,497.0,592.0,502.0,484.0
+81,Standard Van,746.0,,,
+81,Fullsize SUV,764.0,1078.0,819.0,738.0
+81,Standard Convertible,649.0,559.0,533.0,637.0
+81,Standard Specialty,456.0,,,432.0
+81,Luxury Car,,770.0,733.0,
+81,Premium SUV,946.0,1418.0,1010.0,953.0
+81,Luxury SUV,1183.0,,,1187.0
+81,Fullsize Van,1011.0,1105.0,1052.0,1050.0
+80,Economy Car,281.0,428.0,404.0,323.0
+80,Compact Car,269.0,388.0,364.0,291.0
+80,Intermediate Car,275.78,400.0,375.0,318.0
+80,Standard Car,397.0,401.0,377.0,372.0
+80,Fullsize Car,397.0,401.0,377.0,392.0
+80,Premium Car,480.0,539.0,485.0,479.0
+80,Intermediate SUV,421.0,673.0,501.0,426.0
+80,Standard SUV,468.0,710.0,514.0,505.0
+80,Fullsize Crossover,718.0,,,751.0
+80,Premium Crossover,,,,738.0
+80,Mini Van,497.0,592.0,502.0,484.0
+80,Standard Van,746.0,,,
+80,Fullsize SUV,747.0,1078.0,819.0,738.0
+80,Standard Convertible,649.0,559.0,533.0,637.0
+80,Standard Specialty,456.0,,,426.0
+80,Luxury Car,,770.0,733.0,
+80,Premium SUV,923.0,1418.0,1010.0,953.0
+80,Luxury SUV,1161.0,,,1187.0
+80,Fullsize Van,1011.0,1105.0,1052.0,1050.0
+79,Economy Car,269.0,428.0,404.0,291.0
+79,Compact Car,280.0,388.0,364.0,323.0
+79,Intermediate Car,275.78,400.0,375.0,318.0
+79,Standard Car,397.0,401.0,377.0,372.0
+79,Fullsize Car,397.0,401.0,377.0,392.0
+79,Premium Car,480.0,539.0,485.0,479.0
+79,Intermediate SUV,421.0,673.0,501.0,426.0
+79,Standard SUV,468.0,710.0,514.0,505.0
+79,Fullsize Crossover,718.0,,,751.0
+79,Premium Crossover,,,,738.0
+79,Mini Van,497.0,592.0,502.0,484.0
+79,Standard Van,746.0,,,
+79,Fullsize SUV,747.0,1078.0,819.0,738.0
+79,Standard Convertible,649.0,559.0,533.0,637.0
+79,Standard Specialty,456.0,,,426.0
+79,Luxury Car,,770.0,733.0,
+79,Premium SUV,923.0,1418.0,1010.0,953.0
+79,Luxury SUV,1161.0,,,1187.0
+79,Fullsize Van,1011.0,1105.0,1052.0,1050.0
+78,Economy Car,269.0,426.0,402.0,291.0
+78,Compact Car,300.0,387.0,363.0,328.0
+78,Intermediate Car,324.89,398.0,369.0,338.0
+78,Standard Car,357.0,400.0,375.0,367.0
+78,Fullsize Car,395.0,400.0,375.0,370.0
+78,Premium Car,506.0,536.0,510.0,479.0
+78,Intermediate SUV,300.0,673.0,501.0,315.0
+78,Standard SUV,468.0,710.0,514.0,472.0
+78,Fullsize Crossover,718.0,,,703.0
+78,Premium Crossover,,,,738.0
+78,Mini Van,497.0,592.0,502.0,484.0
+78,Standard Van,746.0,,,
+78,Fullsize SUV,747.0,1078.0,861.0,738.0
+78,Standard Convertible,649.0,746.0,533.0,637.0
+78,Standard Specialty,414.0,,,420.0
+78,Luxury Car,,770.0,733.0,
+78,Premium SUV,923.0,1418.0,1071.0,945.0
+78,Luxury SUV,1161.0,,,1179.0
+78,Fullsize Van,1011.0,1105.0,1052.0,1050.0
+76,Economy Car,269.0,426.0,402.0,291.0
+76,Compact Car,292.0,387.0,363.0,307.0
+76,Intermediate Car,302.08,398.0,363.0,317.0
+76,Standard Car,341.0,400.0,375.0,352.0
+76,Fullsize Car,395.0,400.0,375.0,373.0
+76,Premium Car,506.0,536.0,510.0,495.0
+76,Intermediate SUV,300.0,673.0,501.0,315.0
+76,Standard SUV,468.0,710.0,516.0,507.0
+76,Fullsize Crossover,718.0,,,753.0
+76,Premium Crossover,,,,738.0
+76,Mini Van,497.0,592.0,502.0,484.0
+76,Standard Van,746.0,,,
+76,Fullsize SUV,747.0,1078.0,861.0,738.0
+76,Standard Convertible,649.0,746.0,533.0,637.0
+76,Standard Specialty,396.0,,,403.0
+76,Luxury Car,,770.0,733.0,
+76,Premium SUV,923.0,1418.0,1071.0,945.0
+76,Luxury SUV,1161.0,,,1179.0
+76,Fullsize Van,963.0,1054.0,1002.0,1012.0
+68,Economy Car,377.0,452.0,411.0,407.0
+68,Compact Car,369.0,413.0,384.0,369.0
+68,Intermediate Car,370.89,414.0,371.0,371.0
+68,Standard Car,392.0,440.0,402.0,392.0
+68,Fullsize Car,392.0,440.0,418.0,392.0
+68,Premium Car,506.0,577.0,552.0,495.0
+68,Intermediate SUV,496.0,673.0,501.0,493.0
+68,Standard SUV,545.0,710.0,550.0,538.0
+68,Fullsize Crossover,818.0,,,799.0
+68,Premium Crossover,,,,738.0
+68,Mini Van,497.0,592.0,502.0,567.0
+68,Standard Van,746.0,,,
+68,Fullsize SUV,759.0,928.0,861.0,738.0
+68,Standard Convertible,670.0,746.0,711.0,657.0
+68,Standard Specialty,451.0,,,451.0
+68,Luxury Car,,730.0,695.0,
+68,Premium SUV,1002.0,1418.0,1122.0,962.0
+68,Luxury SUV,1259.0,,,1199.0
+68,Fullsize Van,880.0,1003.0,955.0,963.0
+67,Economy Car,400.0,452.0,411.0,407.0
+67,Compact Car,369.0,413.0,384.0,369.0
+67,Intermediate Car,370.89,414.0,371.0,371.0
+67,Standard Car,392.0,440.0,402.0,435.0
+67,Fullsize Car,392.0,440.0,418.0,435.0
+67,Premium Car,494.0,577.0,552.0,495.0
+67,Intermediate SUV,496.0,673.0,501.0,493.0
+67,Standard SUV,545.0,710.0,550.0,538.0
+67,Fullsize Crossover,818.0,,,799.0
+67,Premium Crossover,,,,738.0
+67,Mini Van,497.0,592.0,502.0,567.0
+67,Standard Van,746.0,,,
+67,Fullsize SUV,759.0,928.0,861.0,738.0
+67,Standard Convertible,670.0,746.0,711.0,657.0
+67,Standard Specialty,451.0,,,500.0
+67,Luxury Car,,730.0,695.0,
+67,Premium SUV,1002.0,1418.0,1122.0,962.0
+67,Luxury SUV,1259.0,,,1199.0
+67,Fullsize Van,880.0,1003.0,955.0,963.0
+66,Economy Car,399.0,452.0,411.0,406.0
+66,Compact Car,369.0,413.0,384.0,369.0
+66,Intermediate Car,370.89,414.0,371.0,371.0
+66,Standard Car,392.0,440.0,402.0,435.0
+66,Fullsize Car,392.0,440.0,418.0,435.0
+66,Premium Car,494.0,577.0,552.0,495.0
+66,Intermediate SUV,496.0,673.0,501.0,493.0
+66,Standard SUV,545.0,710.0,550.0,538.0
+66,Fullsize Crossover,818.0,,,799.0
+66,Premium Crossover,,,,738.0
+66,Mini Van,,592.0,502.0,
+66,Fullsize SUV,759.0,928.0,861.0,738.0
+66,Standard Convertible,670.0,746.0,711.0,657.0
+66,Standard Specialty,451.0,,,500.0
+66,Luxury Car,,730.0,695.0,
+66,Premium SUV,1002.0,1418.0,1122.0,962.0
+66,Luxury SUV,1259.0,,,1199.0
+66,Fullsize Van,880.0,1003.0,955.0,963.0
+62,Economy Car,397.0,495.0,425.0,405.0
+62,Compact Car,394.0,456.0,386.0,402.0
+62,Intermediate Car,370.89,452.0,387.0,371.0
+62,Standard Car,392.0,478.0,414.0,437.0
+62,Fullsize Car,392.0,478.0,414.0,428.0
+62,Premium Car,503.0,577.0,508.0,495.0
+62,Intermediate SUV,496.0,717.0,501.0,493.0
+62,Standard SUV,471.0,754.0,550.0,472.0
+62,Fullsize Crossover,721.0,,,703.0
+62,Premium Crossover,,,,738.0
+62,Mini Van,,592.0,513.0,
+62,Fullsize SUV,759.0,928.0,861.0,738.0
+62,Standard Convertible,670.0,746.0,711.0,657.0
+62,Standard Specialty,451.0,,,501.0
+62,Luxury Car,,735.0,700.0,
+62,Premium SUV,1002.0,1462.0,1122.0,962.0
+62,Luxury SUV,1259.0,,,1199.0
+62,Fullsize Van,873.0,955.0,909.0,917.0
+61,Economy Car,384.0,476.0,432.0,392.0
+61,Compact Car,384.0,436.0,392.0,392.0
+61,Intermediate Car,370.89,434.0,394.0,371.0
+61,Standard Car,392.0,461.0,420.0,428.0
+61,Fullsize Car,392.0,459.0,420.0,425.0
+61,Premium Car,503.0,533.0,508.0,495.0
+61,Intermediate SUV,496.0,717.0,501.0,493.0
+61,Standard SUV,471.0,754.0,550.0,472.0
+61,Fullsize Crossover,721.0,,,703.0
+61,Premium Crossover,,,,738.0
+61,Mini Van,,592.0,513.0,
+61,Fullsize SUV,759.0,928.0,861.0,738.0
+61,Intermediate Convertible,670.0,,,
+61,Standard Convertible,670.0,746.0,711.0,657.0
+61,Standard Specialty,451.0,,,490.0
+61,Luxury Car,,715.0,681.0,
+61,Premium SUV,1002.0,1462.0,1122.0,962.0
+61,Luxury SUV,1259.0,,,1199.0
+61,Fullsize Van,873.0,910.0,866.0,917.0
+60,Economy Car,454.0,474.0,444.0,457.0
+60,Compact Car,454.0,436.0,408.0,451.0
+60,Intermediate Car,456.0,434.0,409.0,370.93
+60,Standard Car,495.0,459.0,432.0,415.0
+60,Fullsize Car,491.0,458.0,430.0,415.0
+60,Premium Car,519.0,533.0,508.0,503.0
+60,Intermediate SUV,568.0,717.0,501.0,496.0
+60,Standard SUV,619.0,754.0,550.0,545.0
+60,Fullsize Crossover,913.0,,,818.0
+60,Premium Crossover,,,,806.0
+60,Mini Van,,592.0,564.0,
+60,Fullsize SUV,883.0,928.0,861.0,806.0
+60,Standard Convertible,756.0,746.0,711.0,700.0
+60,Standard Specialty,564.0,,,477.0
+60,Luxury Car,,696.0,663.0,
+60,Premium SUV,1150.0,1462.0,1122.0,1053.0
+60,Luxury SUV,1429.0,,,1313.0
+60,Fullsize Van,,868.0,826.0,
+58,Economy Car,454.0,490,463.0,444.0
+58,Compact Car,454.0,451Includes Cash Card,423.0,451.0
+58,Intermediate Car,456.0,447Includes Cash Card,422.0,370.93
+58,Standard Car,495.0,450Includes Cash Card,425.0,427.0
+58,Fullsize Car,491.0,450Includes Cash Card,425.0,425.0
+58,Premium Car,519.0,539Includes Cash Card,508.0,503.0
+58,Intermediate SUV,612.0,729Includes Cash Card,590.0,496.0
+58,Standard SUV,664.0,766Includes Cash Card,644.0,545.0
+58,Fullsize Crossover,1011.0,,,818.0
+58,Premium Crossover,,,,806.0
+58,Mini Van,,701Includes Cash Card,662.0,
+58,Fullsize SUV,883.0,953Includes Cash Card,901.0,806.0
+58,Standard Convertible,756.0,753Includes Cash Card,711.0,716.0
+58,Standard Specialty,564.0,,,491.0
+58,Luxury Car,,702Includes Cash Card,663.0,
+58,Premium SUV,1150.0,1469Includes Cash Card,1177.0,1053.0
+58,Luxury SUV,1429.0,,,1313.0
+58,Fullsize Van,,874Includes Cash Card,826.0,
+55,Economy Car,425.0,485,458.0,430.0
+55,Compact Car,451.0,446Includes Cash Card,419.0,430.0
+55,Intermediate Car,370.89,443Includes Cash Card,418.0,371.0
+55,Standard Car,392.0,446Includes Cash Card,421.0,419.0
+55,Fullsize Car,392.0,446Includes Cash Card,421.0,419.0
+55,Premium Car,503.0,539Includes Cash Card,508.0,495.0
+55,Intermediate SUV,471.0,728Includes Cash Card,687.0,473.0
+55,Standard SUV,471.0,765Includes Cash Card,722.0,472.0
+55,Fullsize Crossover,721.0,,,703.0
+55,Premium Crossover,,,,769.0
+55,Mini Van,,631Includes Cash Card,594.0,
+55,Fullsize SUV,792.0,971Includes Cash Card,822.0,769.0
+55,Intermediate Convertible,698.0,,,
+55,Standard Convertible,698.0,753Includes Cash Card,711.0,683.0
+55,Standard Specialty,451.0,,,481.0
+55,Luxury Car,,665Includes Cash Card,627.0,
+55,Premium SUV,1038.0,1469Includes Cash Card,1183.0,1003.0
+55,Luxury SUV,1306.0,,,1250.0
+55,Fullsize Van,,874Includes Cash Card,826.0,
+53,Economy Car,449.0,475,449.0,430.0
+53,Compact Car,451.0,444Includes Cash Card,417.0,430.0
+53,Intermediate Car,370.89,442Includes Cash Card,417.0,371.0
+53,Standard Car,392.0,444Includes Cash Card,420.0,415.0
+53,Fullsize Car,392.0,444Includes Cash Card,420.0,415.0
+53,Premium Car,503.0,539Includes Cash Card,508.0,495.0
+53,Intermediate SUV,471.0,728Includes Cash Card,458.0,473.0
+53,Standard SUV,471.0,765Includes Cash Card,612.0,472.0
+53,Fullsize Crossover,721.0,,,703.0
+53,Premium Crossover,,,,769.0
+53,Mini Van,,631Includes Cash Card,594.0,
+53,Fullsize SUV,817.0,971Includes Cash Card,822.0,769.0
+53,Intermediate Convertible,698.0,,,
+53,Standard Convertible,698.0,753Includes Cash Card,711.0,683.0
+53,Standard Specialty,451.0,,,477.0
+53,Luxury Car,,647Includes Cash Card,610.0,
+53,Premium SUV,1066.0,1469Includes Cash Card,1071.0,1003.0
+53,Luxury SUV,1333.0,,,1250.0
+53,Fullsize Van,,874Includes Cash Card,826.0,
+52,Economy Car,449.0,524,477.0,430.0
+52,Compact Car,451.0,485Includes Cash Card,425.0,430.0
+52,Intermediate Car,370.89,478Includes Cash Card,435.0,371.0
+52,Standard Car,392.0,503Includes Cash Card,465.0,415.0
+52,Fullsize Car,392.0,503Includes Cash Card,444.0,415.0
+52,Premium Car,503.0,538Includes Cash Card,508.0,495.0
+52,Intermediate SUV,471.0,729Includes Cash Card,457.0,473.0
+52,Standard SUV,471.0,766Includes Cash Card,610.0,472.0
+52,Fullsize Crossover,721.0,,,703.0
+52,Premium Crossover,,,,769.0
+52,Mini Van,,631Includes Cash Card,594.0,
+52,Fullsize SUV,817.0,969Includes Cash Card,821.0,769.0
+52,Intermediate Convertible,698.0,,,
+52,Standard Convertible,698.0,753Includes Cash Card,709.0,683.0
+52,Standard Specialty,451.0,,,477.0
+52,Luxury Car,,776Includes Cash Card,733.0,
+52,Premium SUV,1066.0,1469Includes Cash Card,1070.0,1003.0
+52,Luxury SUV,1333.0,,,1250.0
+52,Fullsize Van,,874Includes Cash Card,826.0,
+51,Economy Car,449.0,474,447.0,430.0
+51,Compact Car,451.0,442Includes Cash Card,422.0,430.0
+51,Intermediate Car,370.89,440Includes Cash Card,415.0,371.0
+51,Standard Car,392.0,443Includes Cash Card,418.0,415.0
+51,Fullsize Car,392.0,443Includes Cash Card,418.0,415.0
+51,Premium Car,503.0,538Includes Cash Card,515.0,495.0
+51,Intermediate SUV,449.0,728Includes Cash Card,463.0,453.0
+51,Standard SUV,513.0,765Includes Cash Card,617.0,592.0
+51,Fullsize Crossover,786.0,,,880.0
+51,Premium Crossover,,,,769.0
+51,Mini Van,,631Includes Cash Card,601.0,
+51,Fullsize SUV,817.0,968Includes Cash Card,827.0,769.0
+51,Intermediate Convertible,697.0,,,
+51,Standard Convertible,697.0,753Includes Cash Card,716.0,682.0
+51,Standard Specialty,451.0,,,477.0
+51,Luxury Car,,775Includes Cash Card,738.0,
+51,Premium SUV,1066.0,1469Includes Cash Card,1076.0,1003.0
+51,Luxury SUV,1333.0,,,1250.0
+51,Fullsize Van,,874Includes Cash Card,832.0,
+50,Economy Car,425.0,461,435.0,430.0
+50,Compact Car,451.0,429Includes Cash Card,410.0,430.0
+50,Intermediate Car,370.89,428Includes Cash Card,404.0,371.0
+50,Standard Car,392.0,431Includes Cash Card,407.0,403.0
+50,Fullsize Car,392.0,431Includes Cash Card,407.0,403.0
+50,Premium Car,511.0,538Includes Cash Card,515.0,495.0
+50,Intermediate SUV,451.0,729Includes Cash Card,465.0,454.0
+50,Standard SUV,513.0,766Includes Cash Card,618.0,593.0
+50,Fullsize Crossover,786.0,,,882.0
+50,Premium Crossover,,,,769.0
+50,Mini Van,,631Includes Cash Card,601.0,
+50,Fullsize SUV,825.0,968Includes Cash Card,829.0,769.0
+50,Intermediate Convertible,698.0,,,
+50,Standard Convertible,698.0,753Includes Cash Card,717.0,683.0
+50,Standard Specialty,451.0,,,463.0
+50,Luxury Car,,776Includes Cash Card,740.0,
+50,Premium SUV,1038.0,1469Includes Cash Card,1078.0,1003.0
+50,Luxury SUV,1306.0,,,1250.0
+50,Fullsize Van,,874Includes Cash Card,832.0,
+49,Economy Car,425.0,461,435.0,430.0
+49,Compact Car,451.0,429Includes Cash Card,410.0,430.0
+49,Intermediate Car,370.89,428Includes Cash Card,404.0,371.0
+49,Standard Car,392.0,431Includes Cash Card,407.0,403.0
+49,Fullsize Car,392.0,431Includes Cash Card,407.0,403.0
+49,Premium Car,511.0,536Includes Cash Card,515.0,495.0
+49,Intermediate SUV,451.0,728Includes Cash Card,463.0,454.0
+49,Standard SUV,471.0,765Includes Cash Card,617.0,472.0
+49,Fullsize Crossover,721.0,,,703.0
+49,Premium Crossover,,,,769.0
+49,Mini Van,,631Includes Cash Card,601.0,
+49,Fullsize SUV,823.0,967Includes Cash Card,827.0,769.0
+49,Intermediate Convertible,698.0,,,
+49,Standard Convertible,698.0,753Includes Cash Card,714.0,683.0
+49,Standard Specialty,451.0,,,463.0
+49,Luxury Car,,977Includes Cash Card,850.0,
+49,Premium SUV,1072.0,1469Includes Cash Card,1076.0,1003.0
+49,Luxury SUV,1340.0,,,1250.0
+49,Fullsize Van,,874Includes Cash Card,832.0,
+48,Economy Car,425.0,461,435.0,430.0
+48,Compact Car,451.0,429Includes Cash Card,410.0,430.0
+48,Intermediate Car,370.89,428Includes Cash Card,404.0,371.0
+48,Standard Car,392.0,431Includes Cash Card,407.0,403.0
+48,Fullsize Car,392.0,431Includes Cash Card,407.0,403.0
+48,Premium Car,511.0,536Includes Cash Card,515.0,495.0
+48,Intermediate SUV,451.0,729Includes Cash Card,465.0,454.0
+48,Standard SUV,471.0,766Includes Cash Card,618.0,472.0
+48,Fullsize Crossover,721.0,,,703.0
+48,Premium Crossover,,,,769.0
+48,Mini Van,,631Includes Cash Card,601.0,
+48,Fullsize SUV,823.0,967Includes Cash Card,829.0,769.0
+48,Intermediate Convertible,695.0,,,
+48,Standard Convertible,695.0,753Includes Cash Card,717.0,680.0
+48,Standard Specialty,451.0,,,463.0
+48,Luxury Car,,1069Includes Cash Card,930.0,
+48,Premium SUV,1072.0,1469Includes Cash Card,1078.0,1003.0
+48,Luxury SUV,1340.0,,,1250.0
+48,Fullsize Van,,874Includes Cash Card,832.0,
+47,Economy Car,425.0,459,433.0,430.0
+47,Compact Car,451.0,428Includes Cash Card,408.0,430.0
+47,Intermediate Car,370.89,427Includes Cash Card,403.0,371.0
+47,Standard Car,392.0,430Includes Cash Card,406.0,403.0
+47,Fullsize Car,392.0,430Includes Cash Card,406.0,403.0
+47,Premium Car,511.0,536Includes Cash Card,515.0,495.0
+47,Intermediate SUV,451.0,728Includes Cash Card,465.0,454.0
+47,Standard SUV,471.0,765Includes Cash Card,618.0,472.0
+47,Fullsize Crossover,721.0,,,703.0
+47,Premium Crossover,,,,769.0
+47,Mini Van,,631Includes Cash Card,601.0,
+47,Fullsize SUV,823.0,1129Includes Cash Card,829.0,769.0
+47,Intermediate Convertible,695.0,,,
+47,Standard Convertible,695.0,753Includes Cash Card,717.0,680.0
+47,Standard Specialty,451.0,,,463.0
+47,Luxury Car,,1171Includes Cash Card,1018.0,
+47,Premium SUV,1072.0,1469Includes Cash Card,1078.0,1003.0
+47,Luxury SUV,1340.0,,,1250.0
+47,Fullsize Van,,874Includes Cash Card,832.0,
+46,Economy Car,425.0,449,424.0,430.0
+46,Compact Car,425.0,416Includes Cash Card,397.0,430.0
+46,Intermediate Car,427.0,417Includes Cash Card,393.2,432.0
+46,Standard Car,464.0,420Includes Cash Card,396.0,466.0
+46,Fullsize Car,450.0,420Includes Cash Card,396.0,453.0
+46,Premium Car,494.0,536Includes Cash Card,515.0,495.0
+46,Intermediate SUV,451.0,729Includes Cash Card,465.0,454.0
+46,Standard SUV,471.0,766Includes Cash Card,618.0,472.0
+46,Fullsize Crossover,721.0,,,703.0
+46,Premium Crossover,,,,769.0
+46,Mini Van,,631Includes Cash Card,601.0,
+46,Fullsize SUV,825.0,1084Includes Cash Card,829.0,769.0
+46,Intermediate Convertible,695.0,,,
+46,Standard Convertible,695.0,753Includes Cash Card,717.0,680.0
+46,Standard Specialty,537.0,,,534.0
+46,Luxury Car,,1283Includes Cash Card,1115.0,
+46,Premium SUV,1038.0,1425Includes Cash Card,1078.0,1003.0
+46,Luxury SUV,1306.0,,,1250.0
+46,Fullsize Van,,874Includes Cash Card,832.0,
+45,"Location Hours
+											Midnight - Midnight 
+											Midnight - Midnight 
+											Midnight - Midnight 
+											Midnight - Midnight ",,,,
+45,Economy Car,425.0,447,422.0,430.0
+45,Compact Car,425.0,414Includes Cash Card,396.0,430.0
+45,Intermediate Car,427.0,415Includes Cash Card,391.81,432.0
+45,Standard Car,464.0,418Includes Cash Card,395.0,466.0
+45,Fullsize Car,450.0,418Includes Cash Card,395.0,453.0
+45,Premium Car,494.0,738Includes Cash Card,515.0,495.0
+45,Intermediate SUV,449.0,738Includes Cash Card,463.0,453.0
+45,Standard SUV,471.0,768Includes Cash Card,617.0,472.0
+45,Fullsize Crossover,721.0,,,703.0
+45,Premium Crossover,,,,769.0
+45,Mini Van,,981Includes Cash Card,934.0,
+45,Fullsize SUV,825.0,1129Includes Cash Card,827.0,769.0
+45,Intermediate Convertible,697.0,,,
+45,Standard Convertible,697.0,753Includes Cash Card,716.0,682.0
+45,Standard Specialty,537.0,,,534.0
+45,Luxury Car,,1171Includes Cash Card,1115.0,
+45,Premium SUV,1038.0,1482Includes Cash Card,1076.0,1003.0
+45,Luxury SUV,1306.0,,,1250.0
+45,Fullsize Van,,874Includes Cash Card,832.0,
+44,"Location Hours
+											Midnight - Midnight 
+											Midnight - Midnight 
+											Midnight - Midnight 
+											Midnight - Midnight ",,,,
+44,Economy Car,425.0,438,413.0,430.0
+44,Compact Car,425.0,405Includes Cash Card,386.0,430.0
+44,Intermediate Car,427.0,406Includes Cash Card,383.48,432.0
+44,Standard Car,464.0,409Includes Cash Card,386.0,466.0
+44,Fullsize Car,450.0,409Includes Cash Card,386.0,453.0
+44,Premium Car,494.0,738Includes Cash Card,515.0,495.0
+44,Intermediate SUV,451.0,738Includes Cash Card,465.0,454.0
+44,Standard SUV,471.0,768Includes Cash Card,618.0,472.0
+44,Fullsize Crossover,721.0,,,703.0
+44,Premium Crossover,,,,769.0
+44,Mini Van,,937Includes Cash Card,892.0,
+44,Fullsize SUV,825.0,1084Includes Cash Card,829.0,769.0
+44,Intermediate Convertible,698.0,,,
+44,Standard Convertible,698.0,753Includes Cash Card,717.0,683.0
+44,Standard Specialty,537.0,,,534.0
+44,Luxury Car,,1283Includes Cash Card,1221.0,
+44,Premium SUV,1038.0,1425Includes Cash Card,1078.0,1003.0
+44,Luxury SUV,1306.0,,,1250.0
+44,Fullsize Van,,874Includes Cash Card,832.0,
+43,"Location Hours
+											Midnight - Midnight 
+											Midnight - Midnight 
+											Midnight - Midnight 
+											Midnight - Midnight ",,,,
+43,Economy Car,443,436,411,447
+43,Compact Car,444,403Includes Cash Card,385,448
+43,Intermediate Car,445,405Includes Cash Card,382.09,449
+43,Standard Car,473,408Includes Cash Card,385,475
+43,Fullsize Car,459,408Includes Cash Card,385,462
+43,Premium Car,494,738Includes Cash Card,515,495
+43,Intermediate SUV,451,738Includes Cash Card,465,454
+43,Standard SUV,471,768Includes Cash Card,618,472
+43,Fullsize Crossover,721,NA,NA,703
+43,Premium Crossover,NA,NA,NA,769
+43,Mini Van,NA,937Includes Cash Card,892,NA
+43,Fullsize SUV,825,1129Includes Cash Card,829,769
+43,Standard Convertible,698,753Includes Cash Card,717,683
+43,Standard Specialty,548,NA,NA,544
+43,Luxury Car,NA,1171Includes Cash Card,1115,NA
+43,Premium SUV,1038,1484Includes Cash Card,1078,1003
+43,Luxury SUV,1306,NA,NA,1250
+43,Fullsize Van,NA,874Includes Cash Card,832,NA
